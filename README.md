@@ -1,5 +1,5 @@
 # Football
-<h2>Simulation of a football match with different compositions, differents tactics and more... </h2></br>
+<h4>Simulation of a football match with different compositions, differents tactics and more... </h4></br>
 <b>Rules :</b></br>
 You choose one team which will compete against another (IA) and you will try your
 best by choosing a specific composition, and different tactics, every 10 seconds you will
