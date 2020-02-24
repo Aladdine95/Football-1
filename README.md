@@ -1,4 +1,4 @@
-# Football
+<center><h1>Football</h1></center>
 <h4>Simulation of a football match with different compositions, differents tactics and more... </h4></br>
 <b>Rules :</b></br>
 You choose one team which will compete against another (IA) and you will try your
