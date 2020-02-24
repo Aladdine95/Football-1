@@ -6,3 +6,6 @@ best by choosing a specific composition, and different tactics, every 10 seconds
 have to make a choice to either keep the same tactics and composition, either you let it be.
 At some point, a superpower will be unlocked on one player randomly which will confer different
 powers to help your team score against the other team.
+</br>
+Authors : Aladdine Ben Romdhane - Quitterie Pilon - Laura Fustinoni </br>
+UCP L2 Informatique - Group B
