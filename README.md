@@ -8,4 +8,5 @@ At some point, a superpower will be unlocked on one player randomly which will c
 powers to help your team score against the other team.
 </br>
 Authors : Aladdine Ben Romdhane - Quitterie Pilon - Laura Fustinoni </br>
-UCP L2 Informatique - Group B
+</br>
+<h6>UCP L2 Informatique - Group B</h6>
